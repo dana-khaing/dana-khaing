@@ -1,7 +1,7 @@
 <!-- profile-readme-refresh: 2026-05-05 -->
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,35:1d4ed8,70:0ea5e9,100:14b8a6&height=220&section=header&text=Dana%20Khaing&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Junior%20Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,35:1d4ed8,70:0ea5e9,100:14b8a6&height=220&section=header&text=Dana%20Khaing&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&animation=fadeIn)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dana%20Khaing-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/dana-khaing-20aa622a7)
 [![GitHub](https://img.shields.io/badge/GitHub-dana--khaing-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dana-khaing)
@@ -12,11 +12,11 @@
 
 ## About Me
 
-I am **Dana Khaing**, a **recent Computer Science graduate (First Class Honours)** from **Royal Holloway, University of London**.
+I am **Dana Khaing**, a **Software Engineer and Full-Stack Developer** with a **First Class Honours degree in Computer Science** from **Royal Holloway, University of London**.
 
-I have strong experience in **full-stack web development** through personal and collaborative projects. I am skilled in building scalable applications and experienced in developing **responsive user interfaces**, **RESTful APIs**, and implementing **authentication** and **data-driven features**.
+My background includes building software across **frontend interfaces**, **backend services**, and **data-driven application workflows** through both independent and collaborative development. I focus on writing practical, maintainable solutions with particular experience in **responsive web applications**, **RESTful APIs**, **authentication**, and **application logic**.
 
-I am eager to contribute to a **graduate software engineering role** and continue developing technical expertise.
+I use GitHub as a place to document the technologies, projects, and engineering foundations that shape my work.
 
 ## Tech Stack
 
@@ -76,8 +76,8 @@ Graduated in **July 2025**
 ## Recruiter Quick View
 
 - First Class Honours Computer Science graduate
-- Strong experience in full-stack web development through personal and collaborative projects
-- Open to graduate software engineering opportunities
+- Full-stack development experience across personal and collaborative projects
+- Strong foundation in application development, API design, and responsive interfaces
 
 ## Connect
 
