@@ -68,13 +68,6 @@ I am eager to contribute to a **graduate software engineering role** and continu
 **Royal Holloway, University of London**  
 Graduated in **July 2025**
 
-## GitHub Snapshot
-
-<div align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dana-khaing&theme=github_dark" alt="Dana Khaing GitHub stats" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dana-khaing&theme=github_dark" alt="Top languages" />
-</div>
-
 ## Recruiter Quick View
 
 - First Class Honours Computer Science graduate
