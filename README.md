@@ -25,11 +25,15 @@ I am eager to contribute to a **graduate software engineering role** and continu
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C%23](https://img.shields.io/badge/C%23-68217A?style=flat-square&logo=sharp&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwind-css&logoColor=38BDF8)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Responsive Design](https://img.shields.io/badge/Responsive%20UI-0F766E?style=flat-square&logo=googlechrome&logoColor=white)
 
 ### Backend And Data
@@ -46,14 +50,15 @@ I am eager to contribute to a **graduate software engineering role** and continu
 ![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white)
 ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-111827?style=flat-square&logo=unity&logoColor=white)
 
 ## Core Skills
 
-- Languages: JavaScript, TypeScript, Python, Java
-- Frontend: React.js, Next.js, Tailwind CSS, Responsive Design
+- Languages: JavaScript, TypeScript, Python, Java, C, C#
+- Frontend: React.js, Next.js, Tailwind CSS, HTML, CSS, Responsive Design
 - Backend: Node.js, Express.js, Django, RESTful API Development
 - Databases: MySQL, PostgreSQL, Prisma ORM
-- Tools and Technologies: Git, GitHub, Clerk Authentication, Cloudinary, API Integration, Debugging
+- Tools and Technologies: Git, GitHub, Clerk Authentication, Cloudinary, Unity, API Integration, Debugging
 - Concepts: Data Structures, Algorithms, Object-Oriented Programming, Full-Stack Development
 
 ## Experience And Education
