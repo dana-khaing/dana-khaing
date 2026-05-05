@@ -12,18 +12,11 @@
 
 ## About Me
 
-I am **Dana Khaing**, a **First Class Honours Computer Science graduate** from **Royal Holloway, University of London**, building toward a strong career in software engineering.
+I am **Dana Khaing**, a **recent Computer Science graduate (First Class Honours)** from **Royal Holloway, University of London**.
 
-I enjoy creating full-stack products that are practical, reliable, and easy to use. My work has focused on **responsive frontend development**, **RESTful API design**, **authentication**, and **data-driven application logic** across both solo and team projects.
+I have strong experience in **full-stack web development** through personal and collaborative projects. I am skilled in building scalable applications and experienced in developing **responsive user interfaces**, **RESTful APIs**, and implementing **authentication** and **data-driven features**.
 
-I am currently seeking **graduate software engineering** and **junior full-stack developer** opportunities where I can contribute quickly, keep learning, and grow with a strong engineering team.
-
-## What I Bring
-
-- Full-stack development experience across personal and collaborative university projects
-- Strong foundation in scalable web application design and backend problem solving
-- Confidence working with modern JavaScript and TypeScript stacks as well as Python
-- A practical mindset shaped by both technical project work and customer-facing leadership experience
+I am eager to contribute to a **graduate software engineering role** and continue developing technical expertise.
 
 ## Tech Stack
 
@@ -54,20 +47,21 @@ I am currently seeking **graduate software engineering** and **junior full-stack
 ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 
-## Highlights
+## Core Skills
 
-- First Class Honours Computer Science graduate from Royal Holloway, University of London
-- Built full-stack applications using Next.js, Node.js, Django, Prisma, MySQL, and PostgreSQL
-- Strong interest in frontend engineering, backend systems, and practical product development
-- Open to Junior Software Engineer and Graduate Software Engineer opportunities
+- Languages: JavaScript, TypeScript, Python, Java
+- Frontend: React.js, Next.js, Tailwind CSS, Responsive Design
+- Backend: Node.js, Express.js, Django, RESTful API Development
+- Databases: MySQL, PostgreSQL, Prisma ORM
+- Tools and Technologies: Git, GitHub, Clerk Authentication, Cloudinary, API Integration, Debugging
+- Concepts: Data Structures, Algorithms, Object-Oriented Programming, Full-Stack Development
 
 ## Experience And Education
 
 ### Service Manager, Chipotle Mexican Grill
 
-- Led daily team operations in a fast-paced environment
-- Supported training, customer service quality, and operational consistency
-- Strengthened communication, leadership, and problem-solving under pressure
+- Led team operations in a fast-paced environment, ensuring efficient service and high customer satisfaction
+- Handled customer issues, trained staff, and maintained food safety and service standards
 
 ### BSc Computer Science, First Class Honours
 
@@ -83,9 +77,9 @@ Graduated in **July 2025**
 
 ## Recruiter Quick View
 
-- Open to **Junior Software Engineer** and **Graduate Software Engineer** opportunities
-- Interested in **full-stack web development**, **frontend engineering**, and **backend application development**
-- Background includes both **independent product building** and **team collaboration**
+- First Class Honours Computer Science graduate
+- Strong experience in full-stack web development through personal and collaborative projects
+- Open to graduate software engineering opportunities
 
 ## Connect
 
