@@ -1,3 +1,4 @@
+<!-- profile-readme-refresh: 2026-05-05 -->
 <div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,35:1d4ed8,70:0ea5e9,100:14b8a6&height=220&section=header&text=Dana%20Khaing&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Junior%20Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&animation=fadeIn)
