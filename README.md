@@ -77,8 +77,8 @@ Graduated in **July 2025**
 ## GitHub Snapshot
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dana-khaing&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="Dana Khaing GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dana-khaing&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dana-khaing&theme=github_dark" alt="Dana Khaing GitHub stats" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dana-khaing&theme=github_dark" alt="Top languages" />
 </div>
 
 ## Recruiter Quick View
