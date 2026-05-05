@@ -54,43 +54,12 @@ I am currently seeking **graduate software engineering** and **junior full-stack
 ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 
-## Featured Projects
+## Highlights
 
-### FlowBit
-**Capacity-Based Numeric Transaction Management System**
-
-Full-stack system built with **Django** and **Next.js** to process transactions using capacity-aware prioritisation logic.
-
-- Designed transaction logic with prioritisation rules for stable and efficient processing
-- Built RESTful APIs for validation, transaction handling, and backend operations
-- Focused on clean architecture, error handling, and type-safe frontend implementation
-
-### KUMA Social Media
-[Repository](https://github.com/dana-khaing/KUMA_SocialMedia)
-
-Social platform built with **Next.js**, **Node.js**, **Prisma**, and **MySQL**.
-
-- Implemented authentication and protected routes with Clerk
-- Built social features including profiles, follows, posts, comments, reactions, and blocking
-- Added Cloudinary integration and backend search capabilities
-
-### PhoneSine Mobile E-Commerce
-[Repository](https://github.com/dana-khaing/PhoneSine-MobileEcommerce)
-
-Team-based e-commerce application built with **Next.js** and **Node.js**.
-
-- Delivered product listing, cart, and checkout functionality
-- Built responsive interfaces with reusable components
-- Strengthened reliability with validation and error handling
-
-### Restaurant Order Management System
-[Repository](https://github.com/dana-khaing/Restaurant_Order_Management_Web)
-
-Team project using a microservices-based architecture for restaurant operations.
-
-- Contributed as a frontend developer using Next.js
-- Built interfaces for orders and reservations with a responsive UI
-- Worked closely with backend teammates on API integration and data flow
+- First Class Honours Computer Science graduate from Royal Holloway, University of London
+- Built full-stack applications using Next.js, Node.js, Django, Prisma, MySQL, and PostgreSQL
+- Strong interest in frontend engineering, backend systems, and practical product development
+- Open to Junior Software Engineer and Graduate Software Engineer opportunities
 
 ## Experience And Education
 
