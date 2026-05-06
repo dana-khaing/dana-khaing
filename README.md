@@ -41,6 +41,7 @@ I use GitHub as a place to document the technologies, projects, and engineering 
 ![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-1F2937?style=flat-square&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-A30000?style=flat-square&logo=django&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-0EA5E9?style=flat-square&logo=fastapi&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-1E3A8A?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
@@ -60,10 +61,10 @@ I use GitHub as a place to document the technologies, projects, and engineering 
 
 - Languages: JavaScript, TypeScript, Python, Java, C, C#
 - Frontend: React.js, Next.js, Tailwind CSS, HTML, CSS, Responsive Design, shadcn/ui
-- Backend: Node.js, Express.js, Django, RESTful API Development, Authentication Flows, Webhook Integration
+- Backend: Node.js, Express.js, Django, Django REST Framework, RESTful API Development, Authentication Flows, Webhook Integration, Middleware
 - Databases: MySQL, PostgreSQL, Prisma ORM
-- Tools and Technologies: Git, GitHub, Clerk Authentication, Cloudinary, Jest, Zod, Unity, API Integration, Debugging
-- Concepts: Data Structures, Algorithms, Object-Oriented Programming, Full-Stack Development, Testing, Relational Data Modeling
+- Tools and Technologies: Git, GitHub, Pull Request Workflow, Clerk Authentication, Google OAuth, Cloudinary, Jest, Zod, Unity, API Integration, Debugging
+- Concepts: Data Structures, Algorithms, Object-Oriented Programming, Full-Stack Development, Testing, Relational Data Modeling, Role-Based Access Control, PDF and Report Generation
 
 ## Experience And Education
 
