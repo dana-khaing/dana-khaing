@@ -63,11 +63,6 @@ I use GitHub as a place to document the technologies, projects, and engineering 
 
 ## Experience And Education
 
-### Service Manager, Chipotle Mexican Grill
-
-- Led team operations in a fast-paced environment, ensuring efficient service and high customer satisfaction
-- Handled customer issues, trained staff, and maintained food safety and service standards
-
 ### BSc Computer Science, First Class Honours
 
 **Royal Holloway, University of London**  
