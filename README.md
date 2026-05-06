@@ -1,4 +1,4 @@
-<!-- profile-readme-refresh: 2026-05-05 -->
+<!-- profile-readme-refresh: 2026-05-06 -->
 <div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,35:1d4ed8,70:0ea5e9,100:14b8a6&height=220&section=header&text=Dana%20Khaing&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&animation=fadeIn)
@@ -35,6 +35,7 @@ I use GitHub as a place to document the technologies, projects, and engineering 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Responsive Design](https://img.shields.io/badge/Responsive%20UI-0F766E?style=flat-square&logo=googlechrome&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-18181B?style=flat-square&logo=radixui&logoColor=white)
 
 ### Backend And Data
 ![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -44,22 +45,25 @@ I use GitHub as a place to document the technologies, projects, and engineering 
 ![MySQL](https://img.shields.io/badge/MySQL-1E3A8A?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-111827?style=flat-square&logo=prisma&logoColor=white)
+![Webhook Integration](https://img.shields.io/badge/Webhooks-0F766E?style=flat-square&logo=webhook&logoColor=white)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white)
 ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-111827?style=flat-square&logo=unity&logoColor=white)
 
 ## Core Skills
 
 - Languages: JavaScript, TypeScript, Python, Java, C, C#
-- Frontend: React.js, Next.js, Tailwind CSS, HTML, CSS, Responsive Design
-- Backend: Node.js, Express.js, Django, RESTful API Development
+- Frontend: React.js, Next.js, Tailwind CSS, HTML, CSS, Responsive Design, shadcn/ui
+- Backend: Node.js, Express.js, Django, RESTful API Development, Authentication Flows, Webhook Integration
 - Databases: MySQL, PostgreSQL, Prisma ORM
-- Tools and Technologies: Git, GitHub, Clerk Authentication, Cloudinary, Unity, API Integration, Debugging
-- Concepts: Data Structures, Algorithms, Object-Oriented Programming, Full-Stack Development
+- Tools and Technologies: Git, GitHub, Clerk Authentication, Cloudinary, Jest, Zod, Unity, API Integration, Debugging
+- Concepts: Data Structures, Algorithms, Object-Oriented Programming, Full-Stack Development, Testing, Relational Data Modeling
 
 ## Experience And Education
 
