@@ -1,4 +1,4 @@
-<!-- profile-readme-refresh: 2026-05-06 -->
+<!-- profile-readme-refresh: 2026-05-11 -->
 <div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,35:1d4ed8,70:0ea5e9,100:14b8a6&height=220&section=header&text=Dana%20Khaing&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&animation=fadeIn)
@@ -18,6 +18,13 @@ My background includes building software across **frontend interfaces**, **backe
 
 I use GitHub as a place to document the technologies, projects, and engineering foundations that shape my work.
 
+## Portfolio
+
+- Live Portfolio: [dana-khaing.github.io/Portfolio](https://dana-khaing.github.io/Portfolio/)
+- Portfolio Repository: [github.com/dana-khaing/Portfolio](https://github.com/dana-khaing/Portfolio)
+
+My latest portfolio is a retro RPG-inspired personal website built and deployed with GitHub Pages. It presents my projects, skills, education, and contact details through an interactive game-style interface.
+
 ## Tech Stack
 
 ### Languages
@@ -32,10 +39,12 @@ I use GitHub as a place to document the technologies, projects, and engineering 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwind-css&logoColor=38BDF8)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Responsive Design](https://img.shields.io/badge/Responsive%20UI-0F766E?style=flat-square&logo=googlechrome&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-18181B?style=flat-square&logo=radixui&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0F172A?style=flat-square&logo=framer&logoColor=white)
 
 ### Backend And Data
 ![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -56,14 +65,15 @@ I use GitHub as a place to document the technologies, projects, and engineering 
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-111827?style=flat-square&logo=unity&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-111827?style=flat-square&logo=githubpages&logoColor=white)
 
 ## Core Skills
 
 - Languages: JavaScript, TypeScript, Python, Java, C, C#
-- Frontend: React.js, Next.js, Tailwind CSS, HTML, CSS, Responsive Design, shadcn/ui
+- Frontend: React.js, Next.js, Tailwind CSS, Vite, Framer Motion, HTML, CSS, Responsive Design, shadcn/ui
 - Backend: Node.js, Express.js, Django, Django REST Framework, RESTful API Development, Authentication Flows, Webhook Integration, Middleware
 - Databases: MySQL, PostgreSQL, Prisma ORM
-- Tools and Technologies: Git, GitHub, Pull Request Workflow, Clerk Authentication, Google OAuth, Cloudinary, Jest, Zod, Unity, API Integration, Debugging
+- Tools and Technologies: Git, GitHub, GitHub Pages, Pull Request Workflow, Clerk Authentication, Google OAuth, Cloudinary, Jest, Zod, Unity, API Integration, Debugging
 - Concepts: Data Structures, Algorithms, Object-Oriented Programming, Full-Stack Development, Testing, Relational Data Modeling, Role-Based Access Control, PDF and Report Generation
 
 ## Experience And Education
