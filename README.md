@@ -6,6 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dana%20Khaing-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/dana-khaing-20aa622a7)
 [![GitHub](https://img.shields.io/badge/GitHub-dana--khaing-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dana-khaing)
 [![Email](https://img.shields.io/badge/Email-dana1352000%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dana1352000@gmail.com)
+[![Live Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dana-khaing.github.io/Portfolio/)
 [![Location](https://img.shields.io/badge/Based%20in-Isleworth%2C%20UK-0f766e?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/dana-khaing)
 
 </div>
@@ -20,10 +21,7 @@ I use GitHub as a place to document the technologies, projects, and engineering 
 
 ## Portfolio
 
-- Live Portfolio: [dana-khaing.github.io/Portfolio](https://dana-khaing.github.io/Portfolio/)
-- Portfolio Repository: [github.com/dana-khaing/Portfolio](https://github.com/dana-khaing/Portfolio)
-
-My latest portfolio is a retro RPG-inspired personal website built and deployed with GitHub Pages. It presents my projects, skills, education, and contact details through an interactive game-style interface.
+My latest portfolio is a retro RPG-inspired personal website that presents my projects, skills, education, and contact details through an interactive game-style interface. It is built with React, TypeScript, Vite, Tailwind CSS, and Framer Motion, then deployed on GitHub Pages.
 
 ## Tech Stack
 
