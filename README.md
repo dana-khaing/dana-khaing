@@ -1,4 +1,4 @@
-<!-- profile-readme-refresh: 2026-05-11 -->
+<!-- profile-readme-refresh: 2026-05-17 -->
 <div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,35:1d4ed8,70:0ea5e9,100:14b8a6&height=220&section=header&text=Dana%20Khaing&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&animation=fadeIn)
@@ -22,6 +22,10 @@ I use GitHub as a place to document the technologies, projects, and engineering 
 ## Portfolio
 
 My latest portfolio is a retro RPG-inspired personal website that presents my projects, skills, education, and contact details through an interactive game-style interface. It is built with React, TypeScript, Vite, Tailwind CSS, and Framer Motion, then deployed on GitHub Pages.
+
+## Recent Project Update
+
+FlowBit was recently expanded with an admin panel, realtime notifications, cross-session dashboard refresh, audit activity previews, and operational controls around lucky draw reveal timing. This work reflects hands-on experience building admin workflows and realtime product features across a Next.js frontend and Django backend.
 
 ## Tech Stack
 
@@ -49,10 +53,12 @@ My latest portfolio is a retro RPG-inspired personal website that presents my pr
 ![Express.js](https://img.shields.io/badge/Express.js-1F2937?style=flat-square&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-A30000?style=flat-square&logo=django&logoColor=white)
+![Django Channels](https://img.shields.io/badge/Django_Channels-0F172A?style=flat-square&logo=django&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-0EA5E9?style=flat-square&logo=fastapi&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-1E3A8A?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-111827?style=flat-square&logo=prisma&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Webhook Integration](https://img.shields.io/badge/Webhooks-0F766E?style=flat-square&logo=webhook&logoColor=white)
 
 ### Tools
@@ -69,9 +75,9 @@ My latest portfolio is a retro RPG-inspired personal website that presents my pr
 
 - Languages: JavaScript, TypeScript, Python, Java, C, C#
 - Frontend: React.js, Next.js, Tailwind CSS, Vite, Framer Motion, HTML, CSS, Responsive Design, shadcn/ui
-- Backend: Node.js, Express.js, Django, Django REST Framework, RESTful API Development, Authentication Flows, Webhook Integration, Middleware
-- Databases: MySQL, PostgreSQL, Prisma ORM
-- Tools and Technologies: Git, GitHub, GitHub Pages, Pull Request Workflow, Clerk Authentication, Google OAuth, Cloudinary, Jest, Zod, Unity, API Integration, Debugging
+- Backend: Node.js, Express.js, Django, Django REST Framework, Django Channels, RESTful API Development, Authentication Flows, Webhook Integration, Middleware, Realtime Notifications
+- Databases: MySQL, PostgreSQL, Prisma ORM, Redis
+- Tools and Technologies: Git, GitHub, GitHub Pages, Pull Request Workflow, Clerk Authentication, Google OAuth, Cloudinary, Jest, Zod, Unity, API Integration, Debugging, Admin Dashboard Design
 - Concepts: Data Structures, Algorithms, Object-Oriented Programming, Full-Stack Development, Testing, Relational Data Modeling, Role-Based Access Control, PDF and Report Generation
 
 ## Experience And Education
