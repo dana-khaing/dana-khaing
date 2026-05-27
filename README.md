@@ -29,7 +29,7 @@ FlowBit was recently expanded with an admin panel, realtime notifications, cross
 
 ## Public Repositories In Practice
 
-- **FlowBit**: Next.js, TypeScript, React, Django, Django REST Framework, Django Channels, PostgreSQL, Redis, Supabase Storage, WebSocket, Vercel, Render
+- **FlowBit**: Next.js, TypeScript, React, Django, Django REST Framework, Django Channels, PostgreSQL, Redis, Supabase Storage, WebSocket, Brevo, Vercel, Render
 - **Portfolio**: React, TypeScript, Vite, Tailwind CSS, Framer Motion, GitHub API, GitHub Pages, GitHub Actions
 - **KUMA Social Media**: JavaScript, social platform design, collaborative university project development
 - **PhoneSine Mobile E-Commerce**: JavaScript, Node.js, MySQL, frontend and backend integration
@@ -76,6 +76,7 @@ FlowBit was recently expanded with an admin panel, realtime notifications, cross
 ![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white)
+![Brevo](https://img.shields.io/badge/Brevo-0B0F19?style=flat-square&logo=maildotru&logoColor=00A4FF)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
@@ -91,7 +92,7 @@ FlowBit was recently expanded with an admin panel, realtime notifications, cross
 - Frontend: React.js, Next.js, Tailwind CSS, Vite, Framer Motion, HTML, CSS, Responsive Design, shadcn/ui
 - Backend: Node.js, Express.js, Django, Django REST Framework, Django Channels, RESTful API Development, Authentication Flows, Webhook Integration, Middleware, Realtime Notifications
 - Databases: MySQL, PostgreSQL, Prisma ORM, Redis
-- Tools and Technologies: Git, GitHub, GitHub Actions, GitHub Pages, Pull Request Workflow, Clerk Authentication, Google OAuth, Cloudinary, Jest, Zod, Unity, API Integration, Debugging, Admin Dashboard Design, Vercel, Render, Supabase
+- Tools and Technologies: Git, GitHub, GitHub Actions, GitHub Pages, Pull Request Workflow, Clerk Authentication, Google OAuth, Brevo, Cloudinary, Jest, Zod, Unity, API Integration, Debugging, Admin Dashboard Design, Vercel, Render, Supabase
 - Concepts: Data Structures, Algorithms, Object-Oriented Programming, Full-Stack Development, Testing, Relational Data Modeling, Role-Based Access Control, PDF and Report Generation
 
 ## Experience And Education
