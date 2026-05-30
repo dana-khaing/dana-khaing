@@ -31,11 +31,12 @@ FlowBit was recently expanded with an admin panel, realtime notifications, cross
 
 - **FlowBit**: Next.js, TypeScript, React, Django, Django REST Framework, Django Channels, PostgreSQL, Redis, Supabase Storage, WebSocket, Brevo, Vercel, Render
 - **Portfolio**: React, TypeScript, Vite, Tailwind CSS, Framer Motion, GitHub API, GitHub Pages, GitHub Actions
-- **KUMA Social Media**: JavaScript, social platform design, collaborative university project development
-- **PhoneSine Mobile E-Commerce**: JavaScript, Node.js, MySQL, frontend and backend integration
-- **Restaurant Order Management Web**: Java, team-based web application development
-- **Airline Reservation Project**: HTML, CSS, browser-based booking flow design
-- **CS50 and smaller projects**: C, Java, HTML, problem solving, programming fundamentals
+- **KUMA Social Media**: Next.js, React, JavaScript, Tailwind CSS, Clerk, Prisma, Cloudinary, Jest, social platform design, collaborative university project development
+- **PhoneSine Mobile E-Commerce**: Next.js, React, Node.js, Express.js, Express Handlebars, Sequelize, JWT authentication, bcrypt, MySQL, Tailwind CSS, shadcn/ui
+- **Restaurant Order Management Web**: Java, Spring Boot, microservices architecture, REST API, JPA, Hibernate, Spring Security, SQL, JUnit, Mockito, CI/CD
+- **Airline Reservation Project**: HTML, CSS, multi-page website design, booking flow UI
+- **ImageProcessing and ART-Work**: Java, language tooling, academic software experimentation
+- **CS50 and smaller projects**: C, Java, HTML, data structures, algorithms, problem solving, programming fundamentals
 
 ## Tech Stack
 
@@ -46,6 +47,7 @@ FlowBit was recently expanded with an admin panel, realtime notifications, cross
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C%23](https://img.shields.io/badge/C%23-68217A?style=flat-square&logo=sharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -64,10 +66,13 @@ FlowBit was recently expanded with an admin panel, realtime notifications, cross
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-A30000?style=flat-square&logo=django&logoColor=white)
 ![Django Channels](https://img.shields.io/badge/Django_Channels-0F172A?style=flat-square&logo=django&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-0EA5E9?style=flat-square&logo=fastapi&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-1E3A8A?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-111827?style=flat-square&logo=prisma&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=FCAF17)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Webhook Integration](https://img.shields.io/badge/Webhooks-0F766E?style=flat-square&logo=webhook&logoColor=white)
 
@@ -79,6 +84,9 @@ FlowBit was recently expanded with an admin panel, realtime notifications, cross
 ![Brevo](https://img.shields.io/badge/Brevo-0B0F19?style=flat-square&logo=maildotru&logoColor=00A4FF)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-111827?style=flat-square&logo=unity&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-111827?style=flat-square&logo=githubpages&logoColor=white)
@@ -88,12 +96,12 @@ FlowBit was recently expanded with an admin panel, realtime notifications, cross
 
 ## Core Skills
 
-- Languages: JavaScript, TypeScript, Python, Java, C, C#
-- Frontend: React.js, Next.js, Tailwind CSS, Vite, Framer Motion, HTML, CSS, Responsive Design, shadcn/ui
-- Backend: Node.js, Express.js, Django, Django REST Framework, Django Channels, RESTful API Development, Authentication Flows, Webhook Integration, Middleware, Realtime Notifications
-- Databases: MySQL, PostgreSQL, Prisma ORM, Redis
-- Tools and Technologies: Git, GitHub, GitHub Actions, GitHub Pages, Pull Request Workflow, Clerk Authentication, Google OAuth, Brevo, Cloudinary, Jest, Zod, Unity, API Integration, Debugging, Admin Dashboard Design, Vercel, Render, Supabase
-- Concepts: Data Structures, Algorithms, Object-Oriented Programming, Full-Stack Development, Testing, Relational Data Modeling, Role-Based Access Control, PDF and Report Generation
+- Languages: JavaScript, TypeScript, Python, Java, C, C#, SQL
+- Frontend: React.js, Next.js, Tailwind CSS, Vite, Framer Motion, HTML, CSS, Responsive Design, shadcn/ui, multi-page interface design
+- Backend: Node.js, Express.js, Express Handlebars, Django, Django REST Framework, Django Channels, Spring Boot, RESTful API Development, Authentication Flows, JWT, Webhook Integration, Middleware, Realtime Notifications, Microservices Architecture
+- Databases: MySQL, PostgreSQL, Prisma ORM, Sequelize ORM, Redis, JPA, Hibernate
+- Tools and Technologies: Git, GitHub, GitHub Actions, GitHub Pages, Pull Request Workflow, Clerk Authentication, Google OAuth, Brevo, Cloudinary, Jest, JUnit, Mockito, Zod, Maven, Unity, API Integration, Debugging, Admin Dashboard Design, Vercel, Render, Supabase
+- Concepts: Data Structures, Algorithms, Object-Oriented Programming, Full-Stack Development, Testing, Relational Data Modeling, Role-Based Access Control, PDF and Report Generation, CI/CD
 
 ## Experience And Education
 
@@ -107,7 +115,7 @@ Graduated in **July 2025**
 - First Class Honours Computer Science graduate
 - Full-stack development experience across personal and collaborative projects
 - Strong foundation in application development, API design, and responsive interfaces
-- Public repositories demonstrate work across React, Next.js, Django, Node.js, MySQL, PostgreSQL, and realtime product features
+- Public repositories demonstrate work across React, Next.js, Django, Spring Boot, Node.js, MySQL, PostgreSQL, Prisma, Sequelize, and realtime product features
 
 ## Connect
 
