@@ -31,7 +31,7 @@ FlowBit was recently expanded with an admin panel, realtime notifications, cross
 
 - **FlowBit**: Next.js, TypeScript, React, Django, Django REST Framework, Django Channels, PostgreSQL, Redis, Supabase Storage, WebSocket, Brevo, Vercel, Render
 - **Portfolio**: React, TypeScript, Vite, Tailwind CSS, Framer Motion, GitHub API, GitHub Pages, GitHub Actions
-- **KUMA Social Media**: Next.js, React, JavaScript, Tailwind CSS, Clerk, Prisma, Cloudinary, Jest, social platform design, collaborative university project development
+- **KUMA Social Media**: Next.js, React, JavaScript, Tailwind CSS, Clerk, Prisma, Cloudinary, Pusher, Jest, Netlify deployment, Aiven-hosted MySQL, social platform design, collaborative university project development
 - **PhoneSine Mobile E-Commerce**: Next.js, React, Node.js, Express.js, Express Handlebars, Sequelize, JWT authentication, bcrypt, MySQL, Tailwind CSS, shadcn/ui
 - **Restaurant Order Management Web**: Java, Spring Boot, microservices architecture, REST API, JPA, Hibernate, Spring Security, SQL, JUnit, Mockito, CI/CD
 - **Airline Reservation Project**: HTML, CSS, multi-page website design, booking flow UI
@@ -85,13 +85,16 @@ FlowBit was recently expanded with an admin panel, realtime notifications, cross
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Pusher](https://img.shields.io/badge/Pusher-300D4F?style=flat-square&logo=pusher&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-111827?style=flat-square&logo=unity&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-111827?style=flat-square&logo=githubpages&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-111827?style=flat-square&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=111827)
+![Aiven](https://img.shields.io/badge/Aiven-FD814A?style=flat-square&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-1E1E1E?style=flat-square&logo=supabase&logoColor=3ECF8E)
 
 ## Core Skills
@@ -99,8 +102,8 @@ FlowBit was recently expanded with an admin panel, realtime notifications, cross
 - Languages: JavaScript, TypeScript, Python, Java, C, C#, SQL
 - Frontend: React.js, Next.js, Tailwind CSS, Vite, Framer Motion, HTML, CSS, Responsive Design, shadcn/ui, multi-page interface design
 - Backend: Node.js, Express.js, Express Handlebars, Django, Django REST Framework, Django Channels, Spring Boot, RESTful API Development, Authentication Flows, JWT, Webhook Integration, Middleware, Realtime Notifications, Microservices Architecture
-- Databases: MySQL, PostgreSQL, Prisma ORM, Sequelize ORM, Redis, JPA, Hibernate
-- Tools and Technologies: Git, GitHub, GitHub Actions, GitHub Pages, Pull Request Workflow, Clerk Authentication, Google OAuth, Brevo, Cloudinary, Jest, JUnit, Mockito, Zod, Maven, Unity, API Integration, Debugging, Admin Dashboard Design, Vercel, Render, Supabase
+- Databases: MySQL, PostgreSQL, Prisma ORM, Sequelize ORM, Redis, JPA, Hibernate, Aiven-managed database hosting
+- Tools and Technologies: Git, GitHub, GitHub Actions, GitHub Pages, Pull Request Workflow, Clerk Authentication, Google OAuth, Brevo, Cloudinary, Pusher, Jest, JUnit, Mockito, Zod, Maven, Unity, API Integration, Debugging, Admin Dashboard Design, Netlify, Vercel, Render, Supabase
 - Concepts: Data Structures, Algorithms, Object-Oriented Programming, Full-Stack Development, Testing, Relational Data Modeling, Role-Based Access Control, PDF and Report Generation, CI/CD
 
 ## Experience And Education
@@ -115,7 +118,7 @@ Graduated in **July 2025**
 - First Class Honours Computer Science graduate
 - Full-stack development experience across personal and collaborative projects
 - Strong foundation in application development, API design, and responsive interfaces
-- Public repositories demonstrate work across React, Next.js, Django, Spring Boot, Node.js, MySQL, PostgreSQL, Prisma, Sequelize, and realtime product features
+- Public repositories demonstrate work across React, Next.js, Django, Spring Boot, Node.js, MySQL, PostgreSQL, Prisma, Sequelize, Netlify deployment, and realtime product features
 
 ## Connect
 
