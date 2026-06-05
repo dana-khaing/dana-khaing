@@ -1,4 +1,4 @@
-<!-- profile-readme-refresh: 2026-05-27 -->
+<!-- profile-readme-refresh: 2026-06-05 -->
 <div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,35:1d4ed8,70:0ea5e9,100:14b8a6&height=220&section=header&text=Dana%20Khaing&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&animation=fadeIn)
@@ -23,9 +23,11 @@ I use GitHub as a place to document the technologies, projects, and engineering 
 
 My latest portfolio is a retro RPG-inspired personal website that presents my projects, skills, education, and contact details through an interactive game-style interface. It is built with React, TypeScript, Vite, Tailwind CSS, and Framer Motion, then deployed on GitHub Pages.
 
-## Recent Project Update
+## Recent Project Updates
 
-FlowBit was recently expanded with an admin panel, realtime notifications, cross-session dashboard refresh, audit activity previews, and operational controls around lucky draw reveal timing. This work reflects hands-on experience building admin workflows and realtime product features across a Next.js frontend and Django backend.
+KUMA Social Media was recently expanded with direct messaging, realtime message events, active status, unread badges, media messages, and a polished chat composer. This work builds on the existing Next.js, Prisma, Clerk, Cloudinary, and Pusher stack.
+
+FlowBit was also expanded with an admin panel, realtime notifications, cross-session dashboard refresh, audit activity previews, and operational controls around lucky draw reveal timing. This work reflects hands-on experience building admin workflows and realtime product features across a Next.js frontend and Django backend.
 
 ## Public Repositories In Practice
 
@@ -75,6 +77,7 @@ FlowBit was recently expanded with an admin panel, realtime notifications, cross
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=FCAF17)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Pusher](https://img.shields.io/badge/Pusher-300D4F?style=flat-square&logo=pusher&logoColor=white)
 ![Webhook Integration](https://img.shields.io/badge/Webhooks-0F766E?style=flat-square&logo=webhook&logoColor=white)
 
 ### Tools
@@ -102,10 +105,10 @@ FlowBit was recently expanded with an admin panel, realtime notifications, cross
 
 - Languages: JavaScript, TypeScript, Python, Java, C, C#, SQL
 - Frontend: React.js, Next.js, Tailwind CSS, Vite, Framer Motion, HTML, CSS, Responsive Design, shadcn/ui, multi-page interface design
-- Backend: Node.js, Express.js, Express Handlebars, Django, Django REST Framework, Django Channels, Spring Boot, RESTful API Development, Authentication Flows, JWT, Webhook Integration, Middleware, Realtime Notifications, Microservices Architecture
+- Backend: Node.js, Express.js, Express Handlebars, Django, Django REST Framework, Django Channels, Spring Boot, RESTful API Development, Authentication Flows, JWT, Webhook Integration, Middleware, Realtime Notifications, Direct Messaging, Microservices Architecture
 - Databases: MySQL, PostgreSQL, Prisma ORM, Sequelize ORM, Redis, JPA, Hibernate, Aiven-managed database hosting
 - Tools and Technologies: Git, GitHub, GitHub Actions, GitHub Pages, Pull Request Workflow, Clerk Authentication, Google OAuth, Brevo, Cloudinary, Pusher, Jest, JUnit, Mockito, Zod, Maven, Unity, API Integration, Debugging, Admin Dashboard Design, Netlify, Vercel, Render, Supabase
-- Concepts: Data Structures, Algorithms, Object-Oriented Programming, Full-Stack Development, Testing, Relational Data Modeling, Role-Based Access Control, PDF and Report Generation, CI/CD, Realtime Messaging, Social Platform Workflows, 2D Game Development
+- Concepts: Data Structures, Algorithms, Object-Oriented Programming, Full-Stack Development, Testing, Relational Data Modeling, Role-Based Access Control, PDF and Report Generation, CI/CD, Realtime Messaging, Direct Messaging, Social Platform Workflows, 2D Game Development
 
 ## Experience And Education
 
