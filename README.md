@@ -31,9 +31,10 @@ FlowBit was recently expanded with an admin panel, realtime notifications, cross
 
 - **FlowBit**: Next.js, TypeScript, React, Django, Django REST Framework, Django Channels, PostgreSQL, Redis, Supabase Storage, WebSocket, Brevo, Vercel, Render
 - **Portfolio**: React, TypeScript, Vite, Tailwind CSS, Framer Motion, GitHub API, GitHub Pages, GitHub Actions
-- **KUMA Social Media**: Next.js, React, JavaScript, Tailwind CSS, Clerk, Prisma, Cloudinary, Pusher, Jest, Netlify deployment, Aiven-hosted MySQL, social platform design, collaborative university project development
+- **KUMA Social Media**: Next.js, React, JavaScript, Tailwind CSS, Clerk, Prisma, Cloudinary, Pusher, Jest, Netlify deployment, Aiven-hosted MySQL, profiles, posts, stories, follows, comments, notifications, and realtime social activity
 - **PhoneSine Mobile E-Commerce**: Next.js, React, Node.js, Express.js, Express Handlebars, Sequelize, JWT authentication, bcrypt, MySQL, Tailwind CSS, shadcn/ui
 - **Restaurant Order Management Web**: Java, Spring Boot, microservices architecture, REST API, JPA, Hibernate, Spring Security, SQL, JUnit, Mockito, CI/CD
+- **2D Cheese Chaser**: Unity 2D, C#, sprites, collisions, triggers, gameplay scripting, and beginner game development practice
 - **Airline Reservation Project**: HTML, CSS, multi-page website design, booking flow UI
 - **ImageProcessing and ART-Work**: Java, language tooling, academic software experimentation
 - **CS50 and smaller projects**: C, Java, HTML, data structures, algorithms, problem solving, programming fundamentals
@@ -104,7 +105,7 @@ FlowBit was recently expanded with an admin panel, realtime notifications, cross
 - Backend: Node.js, Express.js, Express Handlebars, Django, Django REST Framework, Django Channels, Spring Boot, RESTful API Development, Authentication Flows, JWT, Webhook Integration, Middleware, Realtime Notifications, Microservices Architecture
 - Databases: MySQL, PostgreSQL, Prisma ORM, Sequelize ORM, Redis, JPA, Hibernate, Aiven-managed database hosting
 - Tools and Technologies: Git, GitHub, GitHub Actions, GitHub Pages, Pull Request Workflow, Clerk Authentication, Google OAuth, Brevo, Cloudinary, Pusher, Jest, JUnit, Mockito, Zod, Maven, Unity, API Integration, Debugging, Admin Dashboard Design, Netlify, Vercel, Render, Supabase
-- Concepts: Data Structures, Algorithms, Object-Oriented Programming, Full-Stack Development, Testing, Relational Data Modeling, Role-Based Access Control, PDF and Report Generation, CI/CD
+- Concepts: Data Structures, Algorithms, Object-Oriented Programming, Full-Stack Development, Testing, Relational Data Modeling, Role-Based Access Control, PDF and Report Generation, CI/CD, Realtime Messaging, Social Platform Workflows, 2D Game Development
 
 ## Experience And Education
 
