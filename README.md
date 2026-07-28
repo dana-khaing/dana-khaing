@@ -1,4 +1,4 @@
-<!-- profile-readme-refresh: 2026-07-03 -->
+<!-- profile-readme-refresh: 2026-07-28 -->
 <div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,35:1d4ed8,70:0ea5e9,100:14b8a6&height=220&section=header&text=Dana%20Khaing&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&animation=fadeIn)
@@ -8,6 +8,14 @@
 [![Email](https://img.shields.io/badge/Email-dana1352000%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dana1352000@gmail.com)
 [![Live Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dana-khaing.github.io/Portfolio/)
 [![Location](https://img.shields.io/badge/Based%20in-Isleworth%2C%20UK-0f766e?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/dana-khaing)
+
+![Next.js](https://img.shields.io/badge/Next.js_16-111827?style=flat-square&logo=nextdotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-1E1E1E?style=flat-square&logo=supabase&logoColor=3ECF8E)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-111827?style=flat-square&logo=expo&logoColor=white)
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
+![Mux](https://img.shields.io/badge/Mux-0F172A?style=flat-square&logoColor=white)
+![Resend](https://img.shields.io/badge/Resend-111827?style=flat-square&logo=resend&logoColor=white)
 
 </div>
 
@@ -25,12 +33,18 @@ My latest portfolio is a retro RPG-inspired personal website that presents my pr
 
 ## Recent Project Updates
 
+Aniverse introduced a creator-first streaming platform built with Next.js 16, Supabase, Mux, Resend, Sentry, and Playwright, extending my recent work into video delivery, moderation flows, and installable web app experiences.
+
+CafePOS also added another strong product case study through an offline-first multi-branch point-of-sale system with a web app, local branch hub, LAN APIs, sync workflows, printing support, and bilingual staff tooling.
+
 Delta ChatBot introduced a Gemini-powered chat workflow with configurable personas, conversation history, automated tests, and deployment-ready Flask infrastructure.
 
 FlowBit was also expanded with an admin panel, realtime notifications, cross-session dashboard refresh, audit activity previews, and operational controls around lucky draw reveal timing. This work reflects hands-on experience building admin workflows and realtime product features across a Next.js frontend and Django backend.
 
 ## Public Repositories In Practice
 
+- **aniverse**: Next.js 16, TypeScript, React, Tailwind CSS, shadcn/ui, Supabase Postgres, Supabase Auth, Supabase Realtime, Supabase Storage, Mux, Resend, Sentry, Vercel, Zod, Vitest, Playwright, PWA, HLS video playback, moderation workflows, and creator platform features
+- **CafePOS**: Next.js, TypeScript, Turborepo, pnpm workspace, offline-first web app architecture, local branch hub, LAN APIs, sync workflows, printing support, bilingual staff tooling, and multi-branch operations design
 - **FlowBit**: Next.js, TypeScript, React, Django, Django REST Framework, Django Channels, PostgreSQL, Redis, Supabase Storage, WebSocket, Brevo, Vercel, Render
 - **D-Vision 3D Reconstructure**: FastAPI, Python, SQLModel, Alembic, Redis queue workers, React, Vite, Three.js, Gaussian Splatting, COLMAP, SAM2, YOLO, and 3D scene reconstruction workflows
 - **Delta ChatBot**: Python, Flask, Google Gemini, Gunicorn, Pytest, responsive chat UI, multi-turn conversation history, and Render deployment
@@ -66,6 +80,7 @@ FlowBit was also expanded with an admin panel, realtime notifications, cross-ses
 ![Responsive Design](https://img.shields.io/badge/Responsive%20UI-0F766E?style=flat-square&logo=googlechrome&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-18181B?style=flat-square&logo=radixui&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0F172A?style=flat-square&logo=framer&logoColor=white)
+![PWA](https://img.shields.io/badge/Progressive_Web_App-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
 
 ### Backend And Data
 ![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -85,6 +100,8 @@ FlowBit was also expanded with an admin panel, realtime notifications, cross-ses
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=FCAF17)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Supabase Auth](https://img.shields.io/badge/Supabase_Auth-1E1E1E?style=flat-square&logo=supabase&logoColor=3ECF8E)
+![Supabase Realtime](https://img.shields.io/badge/Supabase_Realtime-1E1E1E?style=flat-square&logo=supabase&logoColor=3ECF8E)
+![Supabase Storage](https://img.shields.io/badge/Supabase_Storage-1E1E1E?style=flat-square&logo=supabase&logoColor=3ECF8E)
 ![Three.js](https://img.shields.io/badge/Three.js-111827?style=flat-square&logo=threedotjs&logoColor=white)
 ![Webhook Integration](https://img.shields.io/badge/Webhooks-0F766E?style=flat-square&logo=webhook&logoColor=white)
 
@@ -99,6 +116,7 @@ FlowBit was also expanded with an admin panel, realtime notifications, cross-ses
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0F766E?style=flat-square&logo=pytest&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-729B1B?style=flat-square&logo=vitest&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![Pusher](https://img.shields.io/badge/Pusher-300D4F?style=flat-square&logo=pusher&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
@@ -106,6 +124,10 @@ FlowBit was also expanded with an admin panel, realtime notifications, cross-ses
 ![Alembic](https://img.shields.io/badge/Alembic-374151?style=flat-square&logoColor=white)
 ![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=flat-square&logo=gunicorn&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
+![Mux](https://img.shields.io/badge/Mux-0F172A?style=flat-square&logoColor=white)
+![Resend](https://img.shields.io/badge/Resend-111827?style=flat-square&logo=resend&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
+![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-111827?style=flat-square&logo=unity&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-111827?style=flat-square&logo=githubpages&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
@@ -117,11 +139,11 @@ FlowBit was also expanded with an admin panel, realtime notifications, cross-ses
 ## Core Skills
 
 - Languages: JavaScript, TypeScript, Python, Java, C, C#, SQL
-- Frontend: React.js, React Native, Expo, Next.js, Tailwind CSS, Vite, Framer Motion, HTML, CSS, Responsive Design, shadcn/ui, Three.js, multi-page interface design
-- Backend: Node.js, Express.js, Express Handlebars, Flask, Django, Django REST Framework, Django Channels, FastAPI, Spring Boot, RESTful API Development, Authentication Flows, JWT, Webhook Integration, Middleware, Realtime Notifications, Microservices Architecture, Queue-Based Background Processing
-- Databases: MySQL, PostgreSQL, Prisma ORM, SQLModel, Sequelize ORM, Redis, JPA, Hibernate, SQLite, Aiven-managed database hosting, Supabase Auth, Postgres schema design, RLS policies
-- Tools and Technologies: Git, GitHub, GitHub Actions, GitHub Pages, Pull Request Workflow, Clerk Authentication, Google OAuth, Brevo, Cloudinary, Pusher, Gemini API, Jest, Playwright, Pytest, JUnit, Mockito, Zod, Alembic, Gunicorn, Maven, Unity, API Integration, Debugging, Admin Dashboard Design, Netlify, Vercel, Render, Supabase
-- Concepts: Data Structures, Algorithms, Object-Oriented Programming, Full-Stack Development, Testing, Relational Data Modeling, Role-Based Access Control, PDF and Report Generation, CI/CD, Realtime Messaging, Social Platform Workflows, 2D Game Development, AI Chat Interfaces, Computer Vision, 3D Reconstruction, Offline-first Mobile UX
+- Frontend: React.js, React Native, Expo, Next.js, Tailwind CSS, Vite, Framer Motion, HTML, CSS, Responsive Design, shadcn/ui, Three.js, multi-page interface design, installable PWA experiences
+- Backend: Node.js, Express.js, Express Handlebars, Flask, Django, Django REST Framework, Django Channels, FastAPI, Spring Boot, RESTful API Development, Authentication Flows, JWT, Webhook Integration, Middleware, Realtime Notifications, Microservices Architecture, Queue-Based Background Processing, local sync services, printing workflows, LAN-connected product flows
+- Databases: MySQL, PostgreSQL, Prisma ORM, SQLModel, Sequelize ORM, Redis, JPA, Hibernate, SQLite, Aiven-managed database hosting, Supabase Auth, Supabase Realtime, Supabase Storage, Postgres schema design, RLS policies
+- Tools and Technologies: Git, GitHub, GitHub Actions, GitHub Pages, Pull Request Workflow, Clerk Authentication, Google OAuth, Brevo, Cloudinary, Pusher, Gemini API, Jest, Playwright, Pytest, Vitest, JUnit, Mockito, Zod, Alembic, Gunicorn, Maven, Unity, API Integration, Debugging, Admin Dashboard Design, Netlify, Vercel, Render, Supabase, Mux, Resend, Sentry, Turborepo, pnpm workspace tooling
+- Concepts: Data Structures, Algorithms, Object-Oriented Programming, Full-Stack Development, Testing, Relational Data Modeling, Role-Based Access Control, PDF and Report Generation, CI/CD, Realtime Messaging, Social Platform Workflows, 2D Game Development, AI Chat Interfaces, Computer Vision, 3D Reconstruction, Offline-first Mobile UX, offline-first operations software, multilingual staff tooling, creator platform workflows, streaming media delivery
 
 ## Experience And Education
 
@@ -135,7 +157,7 @@ Graduated in **July 2025**
 - First Class Honours Computer Science graduate
 - Full-stack development experience across personal and collaborative projects
 - Strong foundation in application development, API design, and responsive interfaces
-- Public repositories demonstrate work across React, Next.js, Flask, FastAPI, Django, Spring Boot, Node.js, MySQL, PostgreSQL, Prisma, SQLModel, Sequelize, Netlify deployment, and realtime product features, while private product work also includes React Native, Expo, Supabase Auth, and offline-first mobile app flows
+- Public repositories now demonstrate work across Next.js 16, React, TypeScript, Flask, FastAPI, Django, Spring Boot, Node.js, PostgreSQL, MySQL, Prisma, SQLModel, Sequelize, Supabase, PWA product flows, streaming media features, offline-first operations tooling, and realtime product systems, while private product work also includes React Native, Expo, and mobile-first app flows
 
 ## Connect
 
