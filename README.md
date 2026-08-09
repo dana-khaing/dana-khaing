@@ -3,11 +3,11 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,35:1d4ed8,70:0ea5e9,100:14b8a6&height=220&section=header&text=Dana%20Khaing&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&animation=fadeIn)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dana%20Khaing-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/dana-khaing-20aa622a7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dana%20Khaing-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dana-khaing)
 [![GitHub](https://img.shields.io/badge/GitHub-dana--khaing-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dana-khaing)
 [![Email](https://img.shields.io/badge/Email-danakhaing13%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danakhaing13@gmail.com)
 [![Live Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dana-khaing.github.io/Portfolio/)
-[![Location](https://img.shields.io/badge/Based%20in-Isleworth%2C%20UK-0f766e?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/dana-khaing)
+[![Location](https://img.shields.io/badge/Based%20in-Isleworth%2C%20UK-0f766e?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/Isleworth,+UK)
 
 ![Next.js](https://img.shields.io/badge/Next.js_16-111827?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-1E1E1E?style=flat-square&logo=supabase&logoColor=3ECF8E)
@@ -148,7 +148,7 @@ Graduated in **July 2025**
 ## Connect
 
 - GitHub: [github.com/dana-khaing](https://github.com/dana-khaing)
-- LinkedIn: [linkedin.com/in/dana-khaing-20aa622a7](http://www.linkedin.com/in/dana-khaing-20aa622a7)
+- LinkedIn: [linkedin.com/in/dana-khaing](https://www.linkedin.com/in/dana-khaing)
 - Email: [danakhaing13@gmail.com](mailto:danakhaing13@gmail.com)
 
 <div align="center">
