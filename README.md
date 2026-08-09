@@ -5,7 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dana%20Khaing-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/dana-khaing-20aa622a7)
 [![GitHub](https://img.shields.io/badge/GitHub-dana--khaing-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dana-khaing)
-[![Email](https://img.shields.io/badge/Email-dana1352000%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dana1352000@gmail.com)
+[![Email](https://img.shields.io/badge/Email-danakhaing13%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danakhaing13@gmail.com)
 [![Live Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dana-khaing.github.io/Portfolio/)
 [![Location](https://img.shields.io/badge/Based%20in-Isleworth%2C%20UK-0f766e?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/dana-khaing)
 
@@ -149,7 +149,7 @@ Graduated in **July 2025**
 
 - GitHub: [github.com/dana-khaing](https://github.com/dana-khaing)
 - LinkedIn: [linkedin.com/in/dana-khaing-20aa622a7](http://www.linkedin.com/in/dana-khaing-20aa622a7)
-- Email: [dana1352000@gmail.com](mailto:dana1352000@gmail.com)
+- Email: [danakhaing13@gmail.com](mailto:danakhaing13@gmail.com)
 
 <div align="center">
 
