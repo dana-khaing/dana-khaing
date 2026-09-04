@@ -13,6 +13,9 @@
 ![Supabase](https://img.shields.io/badge/Supabase-1E1E1E?style=flat-square&logo=supabase&logoColor=3ECF8E)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-111827?style=flat-square&logo=expo&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
 ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
 
 </div>
@@ -161,7 +164,7 @@ Graduated in **July 2025**
 - First Class Honours Computer Science graduate
 - Full-stack development experience across personal and collaborative projects
 - Strong foundation in application development, API design, and responsive interfaces
-- Public repositories now demonstrate work across Next.js 16, React, TypeScript, Flask, FastAPI, Django, Spring Boot, Node.js, PostgreSQL, MySQL, Prisma, SQLModel, Sequelize, Supabase, PWA product flows, streaming media features, offline-first operations tooling, and realtime product systems, while private product work also includes React Native, Expo, and mobile-first app flows
+- Public repositories demonstrate work across Next.js 16, React, TypeScript, Elixir, Phoenix LiveView, Flask, FastAPI, Django, Spring Boot, Node.js, PostgreSQL, MySQL, Prisma, SQLModel, Sequelize, Supabase, PWA product flows, streaming media features, offline-first operations tooling, and realtime product systems. Private product work extends this experience into Flutter, Dart, Go services, Firebase, PostGIS, Terraform, AWS infrastructure, React Native, Expo, native mobile workflows, multilingual marketplaces, and offline-first application design.
 
 ## Connect
 
