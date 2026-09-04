@@ -13,6 +13,9 @@
 ![Supabase](https://img.shields.io/badge/Supabase-1E1E1E?style=flat-square&logo=supabase&logoColor=3ECF8E)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-111827?style=flat-square&logo=expo&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
 ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
 
 </div>
@@ -62,6 +65,8 @@ FlowBit was also expanded with an admin panel, realtime notifications, cross-ses
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C%23](https://img.shields.io/badge/C%23-68217A?style=flat-square&logo=sharp&logoColor=white)
@@ -73,6 +78,9 @@ FlowBit was also expanded with an admin panel, realtime notifications, cross-ses
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-111827?style=flat-square&logo=expo&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Riverpod](https://img.shields.io/badge/Riverpod-0553B1?style=flat-square&logo=dart&logoColor=white)
+![React Navigation](https://img.shields.io/badge/React_Navigation-6B52AE?style=flat-square&logo=react&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwind-css&logoColor=38BDF8)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Responsive Design](https://img.shields.io/badge/Responsive%20UI-0F766E?style=flat-square&logo=googlechrome&logoColor=white)
@@ -83,6 +91,7 @@ FlowBit was also expanded with an admin panel, realtime notifications, cross-ses
 ### Backend And Data
 ![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-1F2937?style=flat-square&logo=express&logoColor=white)
+![Go](https://img.shields.io/badge/Go_API-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Phoenix](https://img.shields.io/badge/Phoenix-FD4F00?style=flat-square&logo=phoenixframework&logoColor=white)
 ![Phoenix LiveView](https://img.shields.io/badge/Phoenix_LiveView-FD4F00?style=flat-square&logo=phoenixframework&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-111827?style=flat-square&logo=flask&logoColor=white)
@@ -92,6 +101,7 @@ FlowBit was also expanded with an admin panel, realtime notifications, cross-ses
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0F766E?style=flat-square&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-1E3A8A?style=flat-square&logo=mysql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-111827?style=flat-square&logo=prisma&logoColor=white)
 ![SQLModel](https://img.shields.io/badge/SQLModel-6B7280?style=flat-square&logo=databricks&logoColor=white)
@@ -99,6 +109,7 @@ FlowBit was also expanded with an admin panel, realtime notifications, cross-ses
 ![Supabase Auth](https://img.shields.io/badge/Supabase_Auth-1E1E1E?style=flat-square&logo=supabase&logoColor=3ECF8E)
 ![Supabase Realtime](https://img.shields.io/badge/Supabase_Realtime-1E1E1E?style=flat-square&logo=supabase&logoColor=3ECF8E)
 ![Supabase Storage](https://img.shields.io/badge/Supabase_Storage-1E1E1E?style=flat-square&logo=supabase&logoColor=3ECF8E)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![REST API](https://img.shields.io/badge/REST_API-0EA5E9?style=flat-square&logo=fastapi&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-111827?style=flat-square&logo=threedotjs&logoColor=white)
 
@@ -127,15 +138,19 @@ FlowBit was also expanded with an admin panel, realtime notifications, cross-ses
 ![Supabase](https://img.shields.io/badge/Supabase-1E1E1E?style=flat-square&logo=supabase&logoColor=3ECF8E)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white)
+![EAS](https://img.shields.io/badge/EAS_Build-111827?style=flat-square&logo=expo&logoColor=white)
 
 ## Core Skills
 
-- Languages: JavaScript, TypeScript, Python, Elixir, Java, C, C#, Shell, SQL
-- Frontend: React.js, React Native, Expo, Next.js, Tailwind CSS, Vite, Framer Motion, Responsive Design, shadcn/ui, Three.js, multi-page interface design, installable PWA experiences
-- Backend: Node.js, Express.js, Express Handlebars, Elixir, Phoenix, Phoenix LiveView, Phoenix PubSub, Ecto, Flask, Django, Django REST Framework, Django Channels, FastAPI, Spring Boot, RESTful API development, authentication flows, JWT, middleware, realtime notifications, microservices architecture, queue-based background processing, local sync services, printing workflows, LAN-connected product flows
-- Databases: MySQL, PostgreSQL, Prisma ORM, SQLModel, Sequelize ORM, Redis, JPA, Hibernate, SQLite, Aiven-managed database hosting, Supabase Auth, Supabase Realtime, Supabase Storage, Postgres schema design, RLS policies
-- Tools and Technologies: Git, GitHub, GitHub Actions, GitHub Pages, pull request workflow, Docker, Stripe, Clerk, Google OAuth, Brevo, Cloudinary, Pusher, Gemini API, Claude Code hooks, macOS automation, Jest, Playwright, Pytest, Vitest, JUnit, Mockito, Zod, Alembic, Gunicorn, Maven, Unity, API integration, debugging, admin dashboard design, Netlify, Vercel, Render, Supabase, Mux, Resend, Sentry, Turborepo, pnpm workspace tooling
-- Concepts: Data structures, algorithms, object-oriented programming, functional programming, concurrent systems, full-stack development, testing, relational data modeling, role-based access control, payment workflows, realtime seat reservation, PDF and report generation, CI/CD, realtime messaging, social platform workflows, 2D game development, AI chat interfaces, computer vision, 3D reconstruction, offline-first mobile UX, offline-first operations software, multilingual staff tooling, creator platform workflows, streaming media delivery
+- Languages: JavaScript, TypeScript, Python, Elixir, Go, Dart, Java, C, C#, Shell, SQL
+- Frontend and Mobile: React.js, React Native, Expo, Flutter, Riverpod, React Navigation, Next.js, Tailwind CSS, Vite, Framer Motion, Responsive Design, shadcn/ui, Three.js, mobile-first interfaces, native deep linking and sharing, installable PWA experiences
+- Backend: Node.js, Express.js, Express Handlebars, Go APIs and background workers, Elixir, Phoenix, Phoenix LiveView, Phoenix PubSub, Ecto, Flask, Django, Django REST Framework, Django Channels, FastAPI, Spring Boot, RESTful API development, authentication flows, JWT, middleware, realtime notifications, microservices architecture, queue-based background processing, local sync services, printing workflows, LAN-connected product flows
+- Databases and Storage: MySQL, PostgreSQL, PostGIS, Prisma ORM, SQLModel, Sequelize ORM, Redis, JPA, Hibernate, SQLite, Firebase, Aiven-managed database hosting, Supabase Auth, Supabase Realtime, Supabase Storage, object storage, Postgres schema design, RLS policies
+- Cloud, Delivery, and Tools: Git, GitHub, GitHub Actions, GitHub Pages, pull request workflow, Docker, Terraform, AWS Lambda, API Gateway, ECS, ECR, VPC networking, GitHub OIDC, OpenTelemetry, EAS Build, Stripe, Firebase Auth, Clerk, Google and Apple OAuth, Brevo, Cloudinary, Pusher, Gemini API, Claude Code hooks, macOS automation, Jest, Playwright, Pytest, Vitest, JUnit, Mockito, Zod, Alembic, Gunicorn, Maven, Unity, Netlify, Vercel, Render, Supabase, Mux, Resend, Sentry, Turborepo, pnpm workspace tooling
+- Concepts: Data structures, algorithms, object-oriented programming, functional programming, concurrent systems, full-stack development, testing, relational and geospatial data modeling, role-based access control, payment and checkout workflows, realtime seat reservation, infrastructure as code, serverless architecture, containerized deployment, CI/CD, observability, secure local storage, offline-first caching and synchronization, push notifications, multilingual product design, marketplace and ordering workflows, social platform workflows, 2D game development, AI chat interfaces, computer vision, 3D reconstruction, creator platform workflows, streaming media delivery
 
 ## Experience And Education
 
@@ -149,7 +164,7 @@ Graduated in **July 2025**
 - First Class Honours Computer Science graduate
 - Full-stack development experience across personal and collaborative projects
 - Strong foundation in application development, API design, and responsive interfaces
-- Public repositories now demonstrate work across Next.js 16, React, TypeScript, Flask, FastAPI, Django, Spring Boot, Node.js, PostgreSQL, MySQL, Prisma, SQLModel, Sequelize, Supabase, PWA product flows, streaming media features, offline-first operations tooling, and realtime product systems, while private product work also includes React Native, Expo, and mobile-first app flows
+- Public repositories demonstrate work across Next.js 16, React, TypeScript, Elixir, Phoenix LiveView, Flask, FastAPI, Django, Spring Boot, Node.js, PostgreSQL, MySQL, Prisma, SQLModel, Sequelize, Supabase, PWA product flows, streaming media features, offline-first operations tooling, and realtime product systems. Private product work extends this experience into Flutter, Dart, Go services, Firebase, PostGIS, Terraform, AWS infrastructure, React Native, Expo, native mobile workflows, multilingual marketplaces, and offline-first application design.
 
 ## Connect
 
