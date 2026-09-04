@@ -61,9 +61,11 @@ FlowBit was also expanded with an admin panel, realtime notifications, cross-ses
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C%23](https://img.shields.io/badge/C%23-68217A?style=flat-square&logo=sharp&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
 
 ### Frontend
@@ -81,6 +83,8 @@ FlowBit was also expanded with an admin panel, realtime notifications, cross-ses
 ### Backend And Data
 ![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-1F2937?style=flat-square&logo=express&logoColor=white)
+![Phoenix](https://img.shields.io/badge/Phoenix-FD4F00?style=flat-square&logo=phoenixframework&logoColor=white)
+![Phoenix LiveView](https://img.shields.io/badge/Phoenix_LiveView-FD4F00?style=flat-square&logo=phoenixframework&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-111827?style=flat-square&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-A30000?style=flat-square&logo=django&logoColor=white)
@@ -121,15 +125,17 @@ FlowBit was also expanded with an admin panel, realtime notifications, cross-ses
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=111827)
 ![Aiven](https://img.shields.io/badge/Aiven-FD814A?style=flat-square&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-1E1E1E?style=flat-square&logo=supabase&logoColor=3ECF8E)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ## Core Skills
 
-- Languages: JavaScript, TypeScript, Python, Java, C, C#, SQL
+- Languages: JavaScript, TypeScript, Python, Elixir, Java, C, C#, Shell, SQL
 - Frontend: React.js, React Native, Expo, Next.js, Tailwind CSS, Vite, Framer Motion, Responsive Design, shadcn/ui, Three.js, multi-page interface design, installable PWA experiences
-- Backend: Node.js, Express.js, Express Handlebars, Flask, Django, Django REST Framework, Django Channels, FastAPI, Spring Boot, RESTful API development, authentication flows, JWT, middleware, realtime notifications, microservices architecture, queue-based background processing, local sync services, printing workflows, LAN-connected product flows
+- Backend: Node.js, Express.js, Express Handlebars, Elixir, Phoenix, Phoenix LiveView, Phoenix PubSub, Ecto, Flask, Django, Django REST Framework, Django Channels, FastAPI, Spring Boot, RESTful API development, authentication flows, JWT, middleware, realtime notifications, microservices architecture, queue-based background processing, local sync services, printing workflows, LAN-connected product flows
 - Databases: MySQL, PostgreSQL, Prisma ORM, SQLModel, Sequelize ORM, Redis, JPA, Hibernate, SQLite, Aiven-managed database hosting, Supabase Auth, Supabase Realtime, Supabase Storage, Postgres schema design, RLS policies
-- Tools and Technologies: Git, GitHub, GitHub Actions, GitHub Pages, pull request workflow, Clerk, Google OAuth, Brevo, Cloudinary, Pusher, Gemini API, Jest, Playwright, Pytest, Vitest, JUnit, Mockito, Zod, Alembic, Gunicorn, Maven, Unity, API integration, debugging, admin dashboard design, Netlify, Vercel, Render, Supabase, Mux, Resend, Sentry, Turborepo, pnpm workspace tooling
-- Concepts: Data structures, algorithms, object-oriented programming, full-stack development, testing, relational data modeling, role-based access control, PDF and report generation, CI/CD, realtime messaging, social platform workflows, 2D game development, AI chat interfaces, computer vision, 3D reconstruction, offline-first mobile UX, offline-first operations software, multilingual staff tooling, creator platform workflows, streaming media delivery
+- Tools and Technologies: Git, GitHub, GitHub Actions, GitHub Pages, pull request workflow, Docker, Stripe, Clerk, Google OAuth, Brevo, Cloudinary, Pusher, Gemini API, Claude Code hooks, macOS automation, Jest, Playwright, Pytest, Vitest, JUnit, Mockito, Zod, Alembic, Gunicorn, Maven, Unity, API integration, debugging, admin dashboard design, Netlify, Vercel, Render, Supabase, Mux, Resend, Sentry, Turborepo, pnpm workspace tooling
+- Concepts: Data structures, algorithms, object-oriented programming, functional programming, concurrent systems, full-stack development, testing, relational data modeling, role-based access control, payment workflows, realtime seat reservation, PDF and report generation, CI/CD, realtime messaging, social platform workflows, 2D game development, AI chat interfaces, computer vision, 3D reconstruction, offline-first mobile UX, offline-first operations software, multilingual staff tooling, creator platform workflows, streaming media delivery
 
 ## Experience And Education
 
