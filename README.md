@@ -29,7 +29,7 @@ I build product-focused software across web, mobile, backend, realtime, and offl
 | [CafePOS](https://github.com/dana-khaing/CafePOS) | Multi-branch cafe POS that keeps trading through outages and synchronises when connectivity returns | Next.js, TypeScript, Turborepo, PWA, Supabase |
 | [PhoneSine](https://github.com/dana-khaing/PhoneSine-MobileEcommerce) | Production-oriented phone storefront with accounts, cart, Stripe checkout, admin tools, and order operations | Next.js, Express, MySQL, Stripe, CI/security automation |
 | [FlowBit](https://github.com/dana-khaing/FlowBit_Capacity-Based-Numeric-Transaction-Management-System) | Realtime operations platform for capacity-controlled numeric transactions, reporting, notifications, and support | Next.js, Django, PostgreSQL, Redis, WebSockets |
-| [KUMA Social](https://github.com/dana-khaing/KUMA_SocialMedia) | Deployed student community with profiles, posts, stories, follows, comments, and realtime activity | Next.js, Prisma, MySQL, Clerk, Pusher, Netlify |
+| [KUMA Social](https://github.com/dana-khaing/KUMA_SocialMedia) | Student community with profiles, posts, stories, follows, comments, and realtime activity | Next.js, Prisma, MySQL, Clerk, Pusher, Netlify |
 | [Memoir3D](https://github.com/dana-khaing/D-Vision-3D-reconstructure) | Turns crowd-sourced event photos into a navigable Gaussian Splatting scene with a timeline | FastAPI, React, Three.js, COLMAP, SAM2, YOLO |
 
 ## More Projects
