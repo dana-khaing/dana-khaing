@@ -22,11 +22,7 @@
 
 ## About Me
 
-I am **Dana Khaing**, a **Software Engineer and Full-Stack Developer** with a **First Class Honours degree in Computer Science** from **Royal Holloway, University of London**.
-
-My background includes building software across **frontend interfaces**, **backend services**, and **data-driven application workflows** through both independent and collaborative development. I focus on writing practical, maintainable solutions with particular experience in **responsive web applications**, **RESTful APIs**, **authentication**, and **application logic**.
-
-I use GitHub as a place to document the technologies, projects, and engineering foundations that shape my work.
+I am a **Computer Science graduate** with an academic foundation in **cybersecurity and networking**, supported by hands-on skills in **Python, SQL, and full-stack web development**. I am seeking an **entry-level Cybersecurity Analyst role** where I can apply my technical knowledge to **security monitoring, threat detection, vulnerability assessment, and incident response**. I bring analytical problem-solving, attention to detail, ethical responsibility, effective teamwork, and the ability to remain calm under pressure. As a committed continuous learner, I aim to help organisations identify risks, strengthen security controls, and protect their systems, data, and users.
 
 ## Portfolio
 
